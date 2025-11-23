@@ -7,7 +7,7 @@ keeping Ghost(Pro) up and running 24/7.
 [Kubernetes](https://kubernetes.io) and [Cilium](https://cilium.io). My homelab
 serves as a battleground for improving my skills in these areas. [My terrible
 shell scripting](https://github.com/hadret/tss) does help quite a bit in this
-endevaor!
+endeavor!
 
 Oh, yeah, I have a [blog](https://chabik.com) that might catch your interest.
 Provided you like blogs. And reading. Recently, I bootstrapped my [Personal
