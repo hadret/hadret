@@ -1,8 +1,5 @@
 ### Cześć! 👋🏻
 
-🤷🏻‍♂️ I'm an Infrastructure Engineer at [Ghost](https://ghost.org), dedicated to
-keeping Ghost(Pro) up and running 24/7.
-
 🔭 I’m currently exploring scaling solutions using
 [Kubernetes](https://kubernetes.io) and [Cilium](https://cilium.io). My homelab
 serves as a battleground for improving my skills in these areas. [My terrible
